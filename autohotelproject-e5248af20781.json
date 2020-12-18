@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autohotelproject",
+  "private_key_id": "e5248af2078172785301e2b141283b9513834132",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmFqNvLkWFsoCa\nODfAd/z8cadUV1zCaItMm/sQvl1mPACrLFxO5hJFQjopCUU/tQfhcPGvJvcpA0JH\ngWISVQC3M+x8caokNwfJ2EwOblUwO4i3pCya5pDy7xT3JtZrFQJPhLntPJVeHwMX\nLMPB1PslnGwOqTXzlh1XNLO3H71RMgVJtthoQbX2QX2l2T+R7xspVp5F2ZX0IjR8\nsp4gVlIRhPK7q89jeba63K8vdvD05VFudmg/IMtfG/W/2clWur8GImmf24Vs9nJA\nS2Pc/SmrHWZwMMkDk7fLSgZf9bfQDy59ILDikH5MDDKzqK9Es0bn7w4ON6AZEuCG\nua90t6rrAgMBAAECggEAT9r0jx5Ol7fbpWq0gtLCFXV2nzGQ6pIxIn4SVX3UWaqi\nisYjJWj5V1tEZ0Cl7ZXtbcNuxhzudCgC5WFUwcsJrAvT3F7wr4//3oB46RtG6q4G\n5cGPj5VNIlty+dJbYZ/RhPqqMtmvd5Ko1m69ZDUAk02mPTJiHK/xb/ZFF13nLVnX\n9AGUkV6gdZFizorBscZ/2zLcMc3Op1HeIfRrpPqxiW1C8ST2kdb27A5U8httjZrt\ndj6DAhe+IbmJyeZJmO82TqNbKbv9NrFLdyQv3RFLRtjS+wMd6X+6mdBKBUjHIaxq\ng6BKsfozFtsEqhTRHSbCnLGcXdJrdLJRPers/XAnqQKBgQD4Zf6u/IrhjmOq3rQU\nX3p+uVx4w+81owEeO+HQknCBINZ5wOcyecfJdX4YhQnG3+W0mCGdgV4RttlbpN0e\no4DZAxfs+eSbeiF8O6OmlI47kZrUJjUp+zLwZLITDEYQxEDLqKduRDZQiURGe6fA\nlAFNjR+J+yBjxjLTfoT+QaMouQKBgQDtITMFL5ljfO6SeTK6czV1O+6EBO9Fywr6\nIQZ+Yd6+A3lW3eZrpAyCcbSh/pqSHfO4lCy+casnn9V6rqbAgn6Iwq7la3nwcM2W\nVEEa8DcOd6U//STjcGxNiXw26BRhPkozLQqO7gzHDZA7nxly+0WnONoSiQAR3O/X\nosS8AA3WwwKBgQCCTp9IlNsWcGgAn0vA1EWibQMBp2e5r4VKowdXLzstwlhBDt06\nMYCJQsWff0sdtR7/mj8oLVF34YAs/1OwWv2g2mqWupEervcaAP9cx9nFjiC24kRJ\nfam/SlPQgkPPT+Td8d/DjK0hmqDiiMP71qjIUhwVelQHg1XudRS3fR9moQKBgGMN\nqzJPX9OfLEkjN32LApmmH0wmg4yz9DHn+b5xQ4o8CUOwDcCJFnCm7r18jTTcLiK8\nQrSK5uP2cEZ/Dkj8Ob8HE+fhrV4ywK47I7cNAPKaJ/1C0VXwcE0zUR/eciTs0DHw\nbqil59B+afF91DOjosTnirCTaeQMVmPNKkEeBKnhAoGBALjdBaMvT/LQDcoeaVY2\nEZ48eAzJO/eXTyvJsIcur+zW5c7eHlPw0/D/7hWx6Hx61G8Gs0ArpmRitmkmOU0W\n9nTb+nO18B+t+6EQTKGpiVOU6Kb6qUYuQbgGRMVa3SuJ90tywFuaxYRDg8V40FFX\nnj+47f/YlWOcgEG2wHLer7d+\n-----END PRIVATE KEY-----\n",
+  "client_email": "autohotel@autohotelproject.iam.gserviceaccount.com",
+  "client_id": "113085809167616228272",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autohotel%40autohotelproject.iam.gserviceaccount.com"
+}
