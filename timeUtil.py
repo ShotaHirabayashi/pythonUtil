@@ -23,3 +23,20 @@ def delta_time(delay):
     """
     delay_day = datetime.datetime.now() + datetime.timedelta(days=delay)
     return f'{delay_day:%Y%m%d}'
+
+
+def get_week(dt):
+    """
+    :param dt: 日付
+    :return: 指定した曜日
+    """
+    w_list = ['月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日', '日曜日']
+    return w_list[dt.weekday()]
+
+
+def get_today_week():
+    """
+    :return: 本日の曜日
+    """
+    w_list = ['月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日', '日曜日']
+    return w_list[datetime.date.today().weekday()]
